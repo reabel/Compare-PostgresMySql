@@ -39,4 +39,6 @@ controls: true
 * https://people.apache.org/~jim/NewArchitect/webtech/2001/09/jepson/index.html
 * https://dba.stackexchange.com/questions/177569/is-mysql-acid-compliant
 * https://blog.pythian.com/understanding-mysql-isolation-levels-repeatable-read/
+
+* presentation created in [cleaver] (https://www.npmjs.com/package/cleaver)
 --
