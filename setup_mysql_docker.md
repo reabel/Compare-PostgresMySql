@@ -49,3 +49,4 @@ Strict mode supported as of 5.6 / 5.7 STRICT_TRANS_TABLES
 To set strict mode pre-5.6
 (outside of db)
 `SHOW VARIABLES LIKE 'sql_mode';`
+`set global sql_mode='STRICT_TRANS_TABLES'`
