@@ -19,6 +19,13 @@ theme: sudodoki/reveal-cleaver-theme
 
 * Version 8.0
     * JSON Improvements (Started in 5.7)
+    * latin1 no longer default encoding, utf8mb4 now recommended
+    * Document-store functionality
+    * Window functions and recursive SQL syntax
+* Some other notable recent changes
+    * sql_mode set by default
+* Note on versioning: 6.0 nixed, 7.0 reserved for clustering version of MySQL
+
 * Why version matters
 --
 
